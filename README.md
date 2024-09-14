@@ -2,7 +2,7 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Welcome👋&fontAlign=75&rotate=13&fontAlignY=20&desc=YOOJUNG's%20GitHub&descAlign=75&descAlignY=43&descSize=25)
 
-# YOOJUNG PARK
+# 🦋 YOOJUNG PARK
 
 👋 **안녕하세요! 저는 풀스택 개발자 박유정입니다!**  
 웹 개발에 큰 흥미를 느끼고 있으며, 다양한 기술을 배우고 프로젝트에 적용해 나가고 있습니다. 주로 Java와 Spring을 활용한 백엔드 개발에 관심이 많지만, React와 같은 프론트엔드 기술도 익히며 풀스택 개발자로 성장해가고 있습니다.
