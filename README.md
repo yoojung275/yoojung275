@@ -1,5 +1,3 @@
-<div align="center">
-  
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Welcome👋&fontAlign=75&rotate=13&fontAlignY=20&desc=YOOJUNG's%20GitHub&descAlign=75&descAlignY=43&descSize=25)
 
 # YOOJUNG PARK
@@ -50,4 +48,3 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojung275&layout=compact&theme=radical)
 
-</div>
