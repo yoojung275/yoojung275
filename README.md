@@ -1,3 +1,5 @@
+<div align=center>
+
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Welcome👋&fontAlign=75&rotate=13&fontAlignY=20&desc=YOOJUNG's%20GitHub&descAlign=75&descAlignY=43&descSize=25)
 
 # YOOJUNG PARK
@@ -34,17 +36,19 @@
 
 ### ☁️ Cloud Service
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-%23323330.svg?style=for-the-badge&logo=microservices&logoColor=white)
 
-## 📞 Contact Me
+## ✉️ Contact Me
 📧 **Email**: [yoojung275@gmail.com](mailto:yoojung275@gmail.com)
 
 ## 📝 Memos
-[YOOJUNG's Blog](https://yourbloglink.com)
+🦊 [YOOJUNG's Blog](https://yourbloglink.com)  
+🐰 [YOOJUNG's Notion](https://yournotionlink.com)
+
 
 ## 📊 GitHub Stats
 
-![yoojung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoojung275&show_icons=true&theme=radical)
+![yoojung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoojung275&show_icons=true&theme=solarized-light)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojung275&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojung275&layout=compact&theme=solarized-light)
 
+</div>
