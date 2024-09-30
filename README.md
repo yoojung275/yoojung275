@@ -44,10 +44,12 @@
 ## ✉️ Contact Me
 📧 **Email**: [yoojung275@gmail.com](mailto:yoojung275@gmail.com)
 
-## 📝 Memos
-🦊 [YOOJUNG's Blog](https://yourbloglink.com)  
-🐰 [YOOJUNG's Notion](https://yournotionlink.com)
+## 📝 Resume
+📄 [YOOJUNG's Resume in GitHub](https://github.com/yoojung275/resume)
 
+## 💼 Links
+📖 [YOOJUNG's Blog](https://yourbloglink.com)  
+📚 [YOOJUNG's Notion](https://yournotionlink.com)  
 
 ## 📊 GitHub Stats
 
