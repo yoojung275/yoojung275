@@ -18,6 +18,7 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🎨 FrontEnd Dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
