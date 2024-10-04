@@ -46,8 +46,8 @@
 📧 **Email**: [yoojung275@gmail.com](mailto:yoojung275@gmail.com)
 
 ## 📝 Resume
-✨ [YOOJUNG's Resume in Web](http://yoojung.resume502.xyz:8000/)
-📄 [YOOJUNG's Resume in GitHub](https://github.com/yoojung275/resume)
+✨ [YOOJUNG's Resume in Web](http://yoojung.resume502.xyz:8000/)<br>
+📄 [YOOJUNG's Resume in GitHub(code)](https://github.com/yoojung275/resume)
 
 ## 💼 Links
 📖 [YOOJUNG's Blog](https://yourbloglink.com)  
